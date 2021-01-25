@@ -16,7 +16,7 @@ This is kinda it
 
 Make every member of the group commit change to the file from ther PC or Mac:
 
-heddaoli: 
+heddaoli: Im here!
 thostors:
 jonalh:
 daniepbj: Im here!
